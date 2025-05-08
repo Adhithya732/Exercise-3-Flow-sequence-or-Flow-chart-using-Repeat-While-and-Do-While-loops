@@ -1,8 +1,8 @@
 # Exercise-3-Flow-sequence-or-Flow-chart-using-Repeat-While-and-Do-While-loops
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : ADHITHYA A 
+Reg.No : 212222220004
 ~~~
 
 ## Aim:
